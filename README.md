@@ -1,6 +1,7 @@
 # TeacherRewards Smart Contract
 
-## Vision
+## Vision ![image](https://github.com/user-attachments/assets/c4c310d8-f48f-476a-8667-7ead6dcb6f34)
+
 
 The **TeacherRewards** smart contract aims to streamline the process of rewarding teachers based on their performance scores using an ERC20 token. The goal is to create a transparent and efficient system for distributing rewards to educators, thereby recognizing and incentivizing their contributions.
 
@@ -37,6 +38,8 @@ The **TeacherRewards** smart contract aims to streamline the process of rewardin
 
 - **Network:**
 - **Contract Address:** 0xf2ac805a2fc29bf12750d3323dead5b21e581f28
+  ![image](https://github.com/user-attachments/assets/9148a7d2-e336-4280-bea8-22c9b7776cbd)
+
 
 Once deployed, the contract address will be provided in the deployment details. To interact with the contract, use the address where the contract is deployed.
 
@@ -52,7 +55,7 @@ Once deployed, the contract address will be provided in the deployment details. 
 For further information or to report issues, please contact:
 - **Name** : Juhaina Yasmin
 - **Email**: juhainayasmin030@gmail.com
-- **GitHub**: Juhainayasmin09
+- **GitHub**: https://github.com/Juhainayasmin09
 
 ## License
 
